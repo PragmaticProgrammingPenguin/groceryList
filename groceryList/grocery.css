@@ -1,0 +1,50 @@
+header {
+    font-size: 32px;
+    color: red;
+    background-color: aqua;
+}
+
+h1 {
+    border-width:10px;
+    border-style: ridge;
+    border-color: aquamarine;
+    color:white;
+    font-size: 25px;
+    background-color: purple;
+}
+h2 {
+    border-width:10px;
+    border-style: ridge;
+    border-color: aquamarine;
+    color:white;
+    font-size: 25px;
+    background-color: purple;
+}
+h3 {
+    border-width:10px;
+    border-style: ridge;
+    border-color: aquamarine;
+    color:white;
+    font-size: 25px;
+    background-color: purple;
+}
+
+ul {
+    font-size:15px
+}
+
+ol {
+    font-size:15px
+}
+
+section {
+    background-color: bisque;
+}
+
+div {
+    display:flex;
+}
+
+.img{
+    padding: 15px;
+}
